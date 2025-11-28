@@ -4,9 +4,7 @@ Flo is an intelligent, agentic system designed to help you manage your entire fi
 
 ## ⚠️ Development Status
 
-**This project is currently in a public testing phase.**
-
-We are developing this as a Minimum Viable Product (MVP) and will be improving it based on user feedback. We encourage you to test the system and send us your thoughts for further improvement.
+**This project is currently in a testing & eval phase.**
 
 Please be aware that Flo is an experimental application. Features may change, and the current version is not recommended for managing real financial data. It is intended for demonstration and development purposes only.
 
